@@ -1,0 +1,4 @@
+https://youtu.be/2FeymQoKvrk?t=1548
+- index.html frontEnd with form,textArea and submit button
+- script.js function to handleSubmit to generate textStripe, get data
+    from textArea and ready to receive Data from ChatGPT
